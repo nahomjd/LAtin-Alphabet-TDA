@@ -1,0 +1,10 @@
+Possible things to add:
+Sparse Distances: count the edges or Filtration bar codes
+Betti numbers? We are just at Betti-0 I believe -- Betti numbers are the number of bar codes on a technique
+Frobenius norm?
+Calculate 0-homology for each rows and colunms
+Easy techniques to add:
+Diagonal Scanning from upper right
+Diagonal Scanning from lower right
+probing from upper right
+probing from lower right
